@@ -1,9 +1,5 @@
-"""
-================================================================================
-  FRANZ -- A LIVING NARRATIVE AGENT SYSTEM
-  README v2
-================================================================================
-
+```
+# FRANZ -- A LIVING NARRATIVE AGENT SYSTEM
 
 1. OVERVIEW
 ================================================================================
@@ -633,9 +629,5 @@ Every turn produces a JSON log entry containing:
 
   - The sandbox restricts builtins but exec/eval in Python is not
     fully sandboxed. This is a research system, not production software.
+```
 
-
-================================================================================
-  END OF README
-================================================================================
-"""
